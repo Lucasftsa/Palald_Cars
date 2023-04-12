@@ -82,8 +82,8 @@ body{
 }
 
 .rodape{
-    background-color: rgb(160, 154, 154);
-    color:rgb(233, 233, 240);
+    background-color: rgb(40, 27, 24);
+    color:aliceblue;
     padding: 10px;
     font-size: 18px;
     display: flex;
@@ -92,7 +92,8 @@ body{
 }
 
 .copy{
-    background-color:rgb(160, 154, 154) ;
+    background-color:rgb(40, 27, 24) ;
+    color: aliceblue;
     text-align: center;
     font-size: small;
     
